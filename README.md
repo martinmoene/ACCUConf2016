@@ -1,6 +1,6 @@
-AccuCon 2016 Presentation Materials
-===================================
-Videos, slides and other materials from ACCU Conference 2016
+ACCU 2016 Conference Presentation Materials
+===========================================
+Videos, slides and other materials from ACCU 2016 Conference.
 
 Keynotes
 --------
